@@ -3,7 +3,7 @@
 </p>
 
 ```js
-import SoftwareEngineer from 'tyler-bolty';
+import SoftwareEngineer from 'William Hogan';
 
 class Introduction extends SoftwareEngineer {
   this.intro    = 'Passionate full stack developer with a particular knack for backend intricacies,
