@@ -12,10 +12,10 @@ class Introduction extends SoftwareEngineer {
 }
 
 class Bio extends SoftwareEngineer {
-  this.name     = 'Tyler Bolty';
+  this.name     = 'William Hogan';
   this.title    = 'Full Stack Software Engineer';
-  this.company  = 'Bamboo Rose';
-  this.location = 'Charlotte, NC, USA';
+  this.company  = 'Self Employeed';
+  this.location = 'Denver, CO, USA';
 }
 
 class Skills extends SoftwareEngineer {
