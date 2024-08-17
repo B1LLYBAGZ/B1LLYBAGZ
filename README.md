@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5c72eef-367f-4321-9153-56e8cb65fbdf" alt="6fffdc2a8363879afe62ac2b5c2c5b5f"  />
 </p>
@@ -28,4 +27,5 @@ class Skills extends SoftwareEngineer {
     frontend: ['React', 'Next.js']
   }
 }
+
 ```
