@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/be41f76a-d4c3-4c8f-9b87-764bab6f7031"
-  />
-</p>
+
+
 import SoftwareEngineer from 'tyler-bolty';
 
 class Introduction extends SoftwareEngineer {
@@ -27,4 +25,3 @@ class Skills extends SoftwareEngineer {
   this.devOps = ['Docker', 'AWS', 'Terraform', 'CircleCI', 'CI/CD']
   this.other = ['AWS S3', 'Handlebars', 'Handsontable', 'SCSS', 'Postman', 'Sendgrid', 'Jira']
 }
-
