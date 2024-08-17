@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c6dd393a-137a-4d89-b610-9ba7a7034408"  />
-</p>
-```js
+<palign="center"><img src="https://github.com/user-attachments/assets/c6dd393a-137a-4d89-b610-9ba7a7034408"  /></p>```js
 import SoftwareEngineer from 'William Hogan';
+
 class Introduction extends SoftwareEngineer {
   this.intro    = 'Passionate full stack developer with a particular knack for backend intricacies,
                    API design, and data modeling. I thrive on crafting high-quality web applications
@@ -24,4 +22,3 @@ class Skills extends SoftwareEngineer {
     frontend: ['React', 'Next.js']
   }
 }
-```
