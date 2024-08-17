@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/be41f76a-d4c3-4c8f-9b87-764bab6f7031"
   />
 </p>
-```js
+
 import SoftwareEngineer from 'William Hogan';
 class Introduction extends SoftwareEngineer {
   this.intro    = 'Passionate full stack developer with a particular knack for backend intricacies,
@@ -29,4 +29,3 @@ class Skills extends SoftwareEngineer {
   }
 }
 
-```
